@@ -1,16 +1,21 @@
 ## Hi there 👋
+# hey there i'm abdou
 
-<!--
-**abdouudjee/abdouudjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a cs student by day, a web dev by night**
 
-Here are some ideas to get you started:
+```swift
+about me :
+----------
+{
+  name: "Djedouani Abdou",
+  age: 21,
+  location: "Algeria"
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# my tech Stack
+
+<p>
+<img src="/assets/svg/python.svg" height="50" width="50" />
+    
+</p>
